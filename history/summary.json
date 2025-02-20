@@ -4,17 +4,19 @@
     "url": "https://www.mruy.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.mruy.de.ico",
     "slug": "m-ruy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 787,
-    "timeDay": 899,
-    "timeWeek": 771,
-    "timeMonth": 763,
-    "timeYear": 787,
-    "dailyMinutesDown": {}
+    "time": 786,
+    "timeDay": 562,
+    "timeWeek": 711,
+    "timeMonth": 752,
+    "timeYear": 786,
+    "dailyMinutesDown": {
+      "2025-02-20": 0
+    }
   }
 ]
