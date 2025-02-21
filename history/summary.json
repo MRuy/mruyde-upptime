@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mruy.de.ico",
     "slug": "m-ruy-de",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 787,
     "timeDay": 832,
     "timeWeek": 760,
     "timeMonth": 763,
     "timeYear": 787,
-    "dailyMinutesDown": {
-      "2025-02-20": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
