@@ -4,7 +4,7 @@
     "url": "https://www.mruy.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.mruy.de.ico",
     "slug": "m-ruy-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
@@ -16,6 +16,7 @@
     "timeMonth": 672,
     "timeYear": 763,
     "dailyMinutesDown": {
+      "2025-04-17": 0,
       "2025-04-10": 31,
       "2025-04-09": 18,
       "2025-03-09": 103,
